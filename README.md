@@ -1,45 +1,20 @@
-# Software Engineer 2028 🚀
-
-My 22-month journey from a complete beginner to a Software Engineer.
-
-## 🎯 Goal
-
-Build strong skills in:
-- Python
-- DSA
-- Full Stack Development
-- SQL & DBMS
-- Git & GitHub
-- Computer Science Fundamentals
-- AI/GenAI
-
-## 📅 Day 01 — 17 August 2026
-
-### 🐍 Python
-- Variables
-- Data types
-- Basic arithmetic
-- Problem-solving approach
-
-### 🌐 HTML
-- HTML boilerplate
-- Head and Body
-- Headings
-- Paragraphs
-- Unordered lists
-- List items
-- Anchor tags
-
-### 💻 Problems Solved
-- Shopping calculation
-- Average calculation
-- Salary calculation
-
-### 🚀 First Webpage
-Created my first basic HTML webpage about my Software Engineering journey.
-
-## 📌 Progress
-
-**Month 01 — Day 01 / 22 Months**
-
-Started from the basics and building step by step.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOFTWARE ENG JOURNEY</title>
+</head>
+<body>
+   <h1>i am anusha</h1> 
+   <p>cse</p>
+   <p>2028 is my graduation</p>
+   <p>sde1 is my carrer goal</p>
+   <ul>
+    <li>python</li>
+    <li>full stack web development</li>
+    <li>git and github</li>
+    </ul>
+<a href="https://chatgpt.com/">ChatGPT</a>
+</body>
+</html>
